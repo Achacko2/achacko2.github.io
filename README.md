@@ -5,6 +5,6 @@
 
 
 ### Social Media info
-*Snapchat:darkChackolate*
+*Snapchat: darkChackolate*
 
-*Instagram:darkChackolate*
+*Instagram: darkChackolate*

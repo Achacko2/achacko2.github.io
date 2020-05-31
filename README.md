@@ -1,7 +1,7 @@
 ## Name
 **Andrew Chacko**
 
-###Image
+### Image
 <img src="MyPicture.JPG">
 
 ### Social Media info

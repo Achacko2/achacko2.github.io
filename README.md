@@ -2,7 +2,7 @@
 **Andrew Chacko**
 
 ### Image
-<img src="MyPicture.JPG"></img>
+<img src="MyPicture.JPG">
 
 ### Social Media info
 **Snapchat:** *darkChackolate*

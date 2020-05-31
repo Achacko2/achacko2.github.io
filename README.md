@@ -1,10 +1,10 @@
 ## Name
-Andrew Chacko
+**Andrew Chacko**
 
 ### image
 
 
 ### Social Media info
-Snapchat:darkChackolate
+*Snapchat:darkChackolate*
 
-Instagram:darkChackolate
+*Instagram:darkChackolate*

@@ -1,7 +1,7 @@
 ## Name
 **Andrew Chacko**
 
-### image
+### Image
 
 
 ### Social Media info

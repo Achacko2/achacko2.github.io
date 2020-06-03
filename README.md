@@ -1,4 +1,5 @@
 ## Hi, my name is **Andrew Chacko**
+
 ### Here's a picture of myself
 <img src="MyPicture.JPG">
 

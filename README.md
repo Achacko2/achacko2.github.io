@@ -1,7 +1,6 @@
-## Name
-**Andrew Chacko**
+## Hi, my Name is **Andrew Chacko**
 
-### Image
+### Here's a picture of myself
 <img src="MyPicture.JPG">
 
 ### Social Media info

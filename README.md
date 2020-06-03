@@ -5,9 +5,9 @@
 <img src="MyPicture.JPG">
 
 ### Social Media info
-**Snapchat:** *darkChackolate*
+**Snapchat:** *@dark_chackolate*
 
-**Instagram:** *darkChackolate*
+**Instagram:** *@dark_chackolate*
 
 ### Brag Sheet
 1. I was a sprinter on the track team for two years. I made varsity time for the 200 meter dash.
